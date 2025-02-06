@@ -1,0 +1,16 @@
+.dropDown{
+    display:flex;
+    justify-content: right;
+    position: relative;
+    top: 25px;
+    right: 40px;
+}
+.dropDown select{
+    width: 250px;
+    height: 50px;
+    border: none;
+    background-color: coral;
+    box-shadow: rgba(248, 91, 0, 0.938) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    text-align: center;
+    color: grey;
+}
